@@ -1,15 +1,12 @@
 ##Dart & Flutter
 
 1. What is the first step for installing Dart on a Windows machine?
-   B) Download the Dart SDK**
-
-2. Which command verifies the Dart installation on macOS?
+   B) Download the Dart SDK
+3. Which command verifies the Dart installation on macOS?
    D) dart --version
-
-3. What is the next step after downloading and extracting the Flutter SDK on Linux?
+4. What is the next step after downloading and extracting the Flutter SDK on Linux?
    B) Update your PATH
-
-4. What command is used to run a newly created Flutter app?
+5. What command is used to run a newly created Flutter app?
    C) flutter run
 
 ### Python Installation
